@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MadarSoftTask</string>
+    <string name="msg_validation_usr_name">Please enter your name</string>
+    <string name="msg_valifation_user_job">Please enter your job</string>
+    <string name="msg_valifation_user_age">Please enter your age</string>
+    <string name="label_user_name">User Name</string>
+    <string name="label_job_title">Job Title</string>
+    <string name="label_age">Age</string>
+    <string name="label_save">Save</string>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
